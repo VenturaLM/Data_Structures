@@ -1,0 +1,7 @@
+1.0
+- versión inicial.
+
+1.1
+- Corregido error en la comprobación de invariantes en set_root()
+- Quidato @warning in correcto en documentación de insert(). Las claves a insertar deben ser nuevas.
+- Reescrita documentación del método find_inorder_sucessor()
