@@ -1,0 +1,42 @@
+capacity
+size
+is_empty
+is_full
+insert 30
+insert 55
+insert 95
+insert 2
+insert 22
+insert 84
+insert 66
+insert 73
+insert 56
+insert 4
+insert 3
+is_empty
+size
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+top
+remove
+size
+is_empty
+
