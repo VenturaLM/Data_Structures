@@ -7,4 +7,4 @@
 - ./run_tests.sh build/test_yyyy tests_yyyy
 
 Note:
-- tests_bstree: 3 of 5 passed.
+- tests_bstree: 3 of 5 passed!
