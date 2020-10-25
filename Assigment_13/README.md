@@ -7,3 +7,6 @@ Esta práctica consiste en implementar el algoritmo de Floyd y el algoritmo para
 - cd ..
 - ./run_tests.sh build/test_xxxx tests_xxxx
 - ./run_tests.sh build/test_yyyy tests_yyyy
+
+Note:
+- Completed!
