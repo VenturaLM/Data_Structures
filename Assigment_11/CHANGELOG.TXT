@@ -1,0 +1,7 @@
+1.0
+- Versión inicial.
+1.1
+- Nueva version de run_tests.sh para que no compruebe el valor de retorno=0 ya
+que hay un test que debe fallar con una excepción runtime para prim porque el
+grafo es no conexo.
+
