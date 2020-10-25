@@ -7,4 +7,4 @@
 - ./run_tests.sh build/test_yyyy tests_yyyy
 
 Note:
-- tests_packet_processor: 21 of 23 passed.
+- tests_packet_processor: 21 of 23 passed!
