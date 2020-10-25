@@ -1,0 +1,12 @@
+1.0 Versión inicial.
+
+1.1
+- Quitados ^M del fichero run_tests.sh
+
+1.2
+- Añadida implementación de Pattern::set_dim() a pattern.cpp
+
+1.3
+- Creado test específico para la clase Pattern.
+- Mejorado el script para comprobar los casos de prueba.
+- Mejorado el programa de test y el caso de prueba para kmeans.
