@@ -1,0 +1,10 @@
+1.0
+- Start version.
+
+1.1
+- Improved run_test.hs
+
+1.2
+- Set default values for Bracket constructor so we can use it as a default
+  in vector::resize.
+
